@@ -115,3 +115,17 @@ https://www.ibm.com/docs/ko/api-connect/5.0.x?topic=profiles-generating-self-sig
 
 # 이런방법도.....2
 https://endland.medium.com/private-key-public-key-8aa94b47edb9
+
+
+
+# https server/client sample code
+https://github.com/jcbsmpsn/golang-https-example
+
+
+# openssl server/client cert,key 생성
+https://www.golinuxcloud.com/tutorial-pki-certificates-authority-ocsp/
+https://www.golinuxcloud.com/openssl-create-client-server-certificate/
+
+
+
+https://baek9.github.io/security/2019/04/10/https%EC%9D%98_%EC%9B%90%EB%A6%AC,_%EA%B7%B8%EB%A6%AC%EA%B3%A0_Self-signed-SSL_%EA%B9%8C%EC%A7%80.html
