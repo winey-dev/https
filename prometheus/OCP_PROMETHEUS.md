@@ -5,3 +5,5 @@ https://docs.openshift.com/container-platform/3.11/install_config/prometheus_clu
 
 
 https://access.redhat.com/documentation/ko-kr/openshift_container_platform/4.7/pdf/authentication_and_authorization/openshift_container_platform-4.7-authentication_and_authorization-ko-kr.pdf
+
+https://www.techbeatly.com/openshift-4-query-prometheus-api-for-firing-alert/
